@@ -76,7 +76,7 @@ def db_select():
     
     for player in records:
         
-        response_String+="<tr>"
+        response_string+="<tr>"
         
         for info in player:
             
